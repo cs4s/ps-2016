@@ -12,6 +12,7 @@ contact: Daniel Hickmott
 baseurl: "/ps-2016"
 
 resources_path: "/resources"
+extras_path: "/extras/"
 
 day1_path: "/day1/"
 scratch_path: "/day1/visualprogramming/"
