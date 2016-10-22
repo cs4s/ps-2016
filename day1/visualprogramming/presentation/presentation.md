@@ -1,0 +1,105 @@
+# Visual Programming with Scratch
+
+## UON CS4PS
+
+### Presented by Daniel Hickmott
+
+---
+
+# Session Plan
+
+- Presentation: Overview of Visual Programming & Scratch (~15 minutes)
+- Hands-On Activities (~1 hour)
+
+---
+
+# Visual Programming in ACARA DT
+
+- Years 3 & 4: "_Implement simple digital solutions as **visual programs** with algorithms involving branching (decisions) and user input (ACTDIP011)_" 
+- Years 5 & 6: "_Implement digital solutions as simple **visual programs** involving branching, iteration (repetition), and user input (ACTDIP020)_" 
+
+---
+
+# What is Visual Programming?
+
+- Programming and Coding *usually* mean the same thing
+- Coding is the act of writing instructions that a computer can understand and follow in some programming language
+- Visual programs are those written in a *visual programming language*, e.g. Scratch or AppInventor
+- Different to *general-purpose languages*, e.g. JavaScript, Python, Java
+
+---
+
+# General-Purpose Languages
+
+![inline](python_code.png)
+
+--- 
+
+# Visual Programming Languages
+
+- Languages that allow you to code by using visual elements
+- Great for Coding beginners
+- Students can concentrate on Computational Thinking, instead of a language's syntax and semantics
+- Some examples are shown on the next slides
+
+---
+
+# ScratchJr
+
+- Commands are symbols rather than text
+- Target age is 5 - 7 year olds
+- Free app available for Android and iOS
+
+![left 60%](scratch_jr.jpg)
+
+---
+
+# LEGO Mindstorms
+
+- Interacts with LEGO Mindstorms robots
+- Write code to move a robot or collect data from its sensors
+- We will use this in a session tomorrow
+
+![left 90%](lego_mindstorms.png)
+
+---
+
+# AppInventor
+
+- Allows you to create apps that run on Android phones and tablets
+- Can use features of phones, e.g. vibration or maps
+- We will use this in a session tomorrow
+
+![left 60%](app_inventor.png)
+
+---
+
+# Scratch 
+
+- Commonly used to introduce K - 12 students to Coding and Computational Thinking
+- Students can create games, animations and interactive stories
+- Many high quality resources and lessons available online (see CS4PS website)
+
+![left 80%](scratch.png)
+
+---
+
+# Scratch
+
+- Who has heard of Scratch?
+- The Philosophy behind Scratch
+	- Designed for *tinkerability*
+	- Encourages collaboration and sharing
+
+- Low floor, wide walls and high ceiling
+- Who is already using it in their classrooms?
+
+---
+
+# Visual Programming Activity
+
+- Go to the Scratch website: www.scratch.mit.edu
+- We have two tutorials for you:
+  - An Introduction to Scratch
+  - Making Cookie Bird
+- Let us know if you have any questions about Scratch
