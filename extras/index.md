@@ -21,11 +21,11 @@ This [video](https://www.youtube.com/watch?v=xaW3PAzHxCU){:target="_blank"} show
 ## General Purpose Programming
 
 One of the questions we are commonly asked at workshops is what students should learn if they have already "mastered" Scratch.
-Students aren't expected to start learning general-purpose languages until Year 7 & 8 but some of your students may be enthusiastic about moving onto these or want to createprograms that go beyond what Scratch allows them to do.
+Students aren't expected to start learning general-purpose languages until Year 7 & 8 but some of your students may be enthusiastic about moving onto these or want to create programs that go beyond what Scratch allows them to do.
 
 It can be overwhelming moving from visual programming languages to general-purpose languages. 
 There are many resources available for learning general-purpose languages but the best resources (and language) for learning really depend on what you would like to create.
 
 We have included some material about [general-purpose languages on this page](sonic_pi), which has some advice about which language to learn.
-The included tutorial focuses on Sonic Pi, a programming environment where you write music with code written in the Ruby language
+The included tutorial focuses on Sonic Pi, a programming environment where you create music with code written in the Ruby language
 
