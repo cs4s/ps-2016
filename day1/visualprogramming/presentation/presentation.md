@@ -13,6 +13,16 @@
 
 ---
 
+# Presentation Contents
+
+- Visual Programming & the DT curriculum
+- What is Visual Programming?
+- Examples of Visual Programming languages
+- Scratch in K - 12
+- Scratch Activity
+
+---
+
 # Visual Programming in ACARA DT
 
 - Years 3 & 4: "_Implement simple digital solutions as **visual programs** with algorithms involving branching (decisions) and user input (ACTDIP011)_" 
