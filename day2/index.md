@@ -10,10 +10,10 @@ title:  CS4PS @ UON 2016 - Day 2
 |---
 | Time | Session |
 |-|-
-| **9:00am - 9:45am** | **Computer Science in the Classroom Presentation** |
-| **9:45am - 10:45am** | **Collaborative Task** | 
+| **9:15am - 10:45am** | [**Building Mobile Apps Activity**]({{ site.baseurl | append: site.appinventor_path }})  |
 | 10:45am - 11:00am | Morning Tea | 
-| **11:00am - 11:30am** | **Group Presentations** | 
-| **11:30am - 12:30pm** | [**Writing Algorithms with Mindstorms Robots**]({{ site.baseurl | append: site.appinventor_path }}) |
-| 12:30pm - 1:00pm | Lunch |
-| **1:00pm - 3:00pm** | **Building Mobile Apps with AppInventor**
+| **11:00am - 12 noon** | **Writing Algorithms Activity** | 
+| 12 noon - 12:30pm | Lunch |
+| **12:30pm - 1:00pm** | **Coding & Computational Thinking in K-6 Presentation**
+| **1:00pm - 2:00pm** | **Lesson Planning Activity**
+| **2:00pm - 2:30pm** | **Sharing Session**
