@@ -16,6 +16,7 @@ extras_path: "/extras/"
 
 day1_path: "/day1/"
 scratch_path: "/day1/visualprogramming/"
+making_path: "/day1/physicalcomputing/"
 robotics_path: "/day1/robotics/"
 
 day2_path: "/day2/"
