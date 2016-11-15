@@ -34,3 +34,8 @@ If you are interested in finding out more about Coding, Computational Thinking, 
 - [A Different Approach to Coding, by Mitch Resnick & David Siegel](https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.29oqihww7){:target="_blank"}
 - [Computational Thinking in Primary Schools, by Miles Berry](http://milesberry.net/2014/03/computational-thinking-in-primary-schools/){:target="_blank"}
 
+## Recommended Books
+
+- [Connected Code: Why Children Need to Learn Programming](https://mitpress.mit.edu/connected-code){:target="_blank"}
+- [Invent To Learn: Making, Tinkering, and Engineering in the Classroom](http://inventtolearn.com/){:target="_blank"}
+- [The Invent to Learn Guide to Making in the K–3 Classroom: Why, How, and Wow!](http://cmkpress.com/the-invent-to-learn-guide-to-making-in-the-k-3-classroom/){:target="_blank"}
