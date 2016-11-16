@@ -14,7 +14,7 @@ We recommend you start with the *Introduction to Scratch* tutorial before comple
 
 ## Files
 
-- [Visual Programming with Scratch Presentation (PDF presentation)](visual_programming_presentation.pdf){:target="_blank"}
+- [Visual Programming with Scratch Presentation (PDF presentation)](presentation/presentation.pdf){:target="_blank"}
 - [Introduction to Scratch Tutorial (Word document)](introduction_to_scratch.docx)
 - [Making Cookie Bird Tutorial (Word document)](making_cookie_bird.docx)
 - [Cookie Bird Resources (ZIP file)](cookie_bird_resources.zip)

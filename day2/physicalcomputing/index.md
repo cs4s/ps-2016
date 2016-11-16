@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS4HS @ UON 2016 - Day 1 - Visual Programming & Physical Computing
+title: CS4HS @ UON 2016 - Day 2 - Physical Computing
 ---
 
 # Physical Computing with MaKey MaKeys
@@ -28,6 +28,7 @@ This is encouraging for STEAM (Science, Technology, Engineering, Arts and Mathem
 
 There are 2 activities in this session. We recommend that you complete them in this order: *Making a Piano*, followed by *Making an Interactive Quiz*.
 
+- [Physical Computing with MaKey MaKeys Presentation (PDF presentation)})](presentation/presentation.pdf){:target="_blank"}
 - [Making a Piano - Tutorial (Word document)](piano_activity.docx)
 - [Making an Interactive Quiz - Tutorial (Word document)](quiz_activity.docx)
 - [Making an Interactive Quiz Resources (Zip)](quiz_resources.zip)
