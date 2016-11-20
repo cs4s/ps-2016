@@ -17,6 +17,7 @@ extras_path: "/extras/"
 day1_path: "/day1/"
 scratch_path: "/day1/visualprogramming/"
 robotics_path: "/day1/robotics/"
+csunplugged_path: "/day1/csunplugged/"
 
 day2_path: "/day2/"
 appinventor_path: "/day2/appinventor/"
