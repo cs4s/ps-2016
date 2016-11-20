@@ -15,8 +15,6 @@ For example, you can create a lesson that uses Scratch or that uses an Unplugged
 We can help you with any questions you have about the curriculum, mapping these activities to the NSW syllabuses or the technology that you plan to use during the activity.
 At the end of the session the lesson plans that have been created will be shared and discussed with the other groups.  
 
-[Presentation file to be uploaded and put here]()
-
 ## Curriculum Guides and Examples
 
 - [ACARA Digital Technologies Curriculum](http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1){:target="_blank"}
@@ -25,11 +23,8 @@ At the end of the session the lesson plans that have been created will be shared
 
 ## Files
 
-To be added, these are the planned files:
-
-- Lesson Plan Template
-- Sheet with Key Terms
-- Example from ESA
+- [Lesson Plan Template](lesson_plan_template.docx)
+- [Example Learning Progression Summary (from Digital Technologies Hub)](https://www.digitaltechnologieshub.edu.au/docs/default-source/default-document-library/year3_4-progress-chart.png?sfvrsn=0){:target="_blank"}
 
 ## Resources
 
