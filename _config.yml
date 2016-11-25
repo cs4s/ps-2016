@@ -11,14 +11,21 @@ email: daniel.hickmott@uon.edu.au
 contact: Daniel Hickmott
 baseurl: "/ps-2016"
 
+# Google services
+google_analytics: UA-87991896-1
+
+
+# Content Pages Paths
 resources_path: "/resources"
 extras_path: "/extras/"
 
+# Day 1 Paths
 day1_path: "/day1/"
 scratch_path: "/day1/visualprogramming/"
 robotics_path: "/day1/robotics/"
 csunplugged_path: "/day1/csunplugged/"
 
+# Day 2 Paths
 day2_path: "/day2/"
 appinventor_path: "/day2/appinventor/"
 lessonplanning_path: "/day2/lessonplanning/"
