@@ -14,6 +14,6 @@ title:  CS4PS @ UON 2016 - Day 2
 | 10:45am - 11:00am | Morning Tea | 
 | **11:00am - 12:30pm** | [**Physical Computing Activity**]({{ site.baseurl | append: site.making_path }}) | 
 | 12:30pm - 1:00pm | Lunch |
-| **1:00pm - 1:30pm** | [**Coding & Computational Thinking in K-6 Presentation (Powerpoint Presentation)**](kps_presentation.pptx)
+| **1:00pm - 1:30pm** | [**Coding & Computational Thinking in K-6 Presentation (Powerpoint Presentation)**](kps_presentation.pptx) |
 | **1:30pm - 2:30pm** | [**Lesson Planning Activity**]({{ site.baseurl | append: site.lessonplanning_path }}) |
-| **2:30pm - 3:00pm** | **Sharing Session**
+| **2:30pm - 3:00pm** | [**Sharing Session**]({{ site.baseurl | append: site.sharing_path }}) |
