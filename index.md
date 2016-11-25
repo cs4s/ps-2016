@@ -13,7 +13,7 @@ In this workshop you will:
 - Learn some ways of teaching Computer Science concepts without using a computer
 - Participate in hands-on activities with Coding, Robotics and Mobile Apps
 
-This workshop is sponsored by Google, as part of their [Computer Science 4 High School](https://www.cs4hs.com/index.html){:target="_blank"} program.
+This workshop has been developed in a partnership with [Google](https://www.cs4hs.com/index.html){:target="_blank"}.
 
 ## Schedule 
 
